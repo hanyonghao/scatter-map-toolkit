@@ -1,13 +1,9 @@
 ## 项目
 
-### 地址
-
-https://github.com/hanyonghao/scatter-map-toolkit
-
 ### 克隆
 
 ```
-$ git clone https://github.com/hanyonghao/scatter-map-toolkit.git
+$ git clone https://github.com/beiliao-mobile/scatter-map-toolkit.git
 ```
 
 ### 区域划定工具
